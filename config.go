@@ -26,7 +26,7 @@ secretkey           = secretkey
 region              = us-east-1
 
 [debug]
-verbose             = true
+verbose             = false
 
 [concurrency]
 listener            = 100
